@@ -1,6 +1,6 @@
 from exercicio2 import string_to_phone_number
 import pytest
-from unittest.mock import mock_open, patch
+
 
 # Verifique casos como entrada maior que 30 caracteres, vazia e com caracteres inválidos.
 
